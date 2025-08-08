@@ -2,7 +2,7 @@
   <img src="./pexels-eberhardgross-1428277.jpg" alt="Mountain" width="100%" />
 </p>
 
-<h2 align="center"><i>One day or day one</i></h2>
+<h2 align="center"><i>Đỉnh núi tuyết của tiếc nuối</i></h2>
 
 ### 🧠 Languages & Technologies
 
