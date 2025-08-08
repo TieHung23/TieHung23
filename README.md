@@ -21,6 +21,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MassTransit-1D3557?style=for-the-badge&logo=masstransit&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediatR-35495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
