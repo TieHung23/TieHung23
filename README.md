@@ -1,4 +1,6 @@
 ![My Image](./pexels-eberhardgross-1428277.jpg)
+<h2 align="center"><i>One day or day one</i></h2>
+
 ### 🧠 Ngôn ngữ đã sử dụng
 
 <p>
