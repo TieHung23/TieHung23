@@ -4,8 +4,16 @@
 
 <h2 align="center"><i>Đỉnh núi tuyết của tiếc nuối</i></h2>
 
-### 🧠 Languages & Technologies
+## 🧠 Languages & Technologies
 
+### 📝 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,go,js,ts,redis,rabbitmq,dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs,go,js,ts" />
+</p>
+
+---
+
+### ⚡ Frameworks & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redis,rabbitmq,dotnet,react,nodejs,postman,git,postgres" />
 </p>
